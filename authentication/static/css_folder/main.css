@@ -1,0 +1,19 @@
+body{
+    background-image: url('../images/bg_login.avif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.img-thumbnail{
+    padding: 2.25rem;
+    border: 1px solid blue;
+    border-radius: 21.25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+p{
+    color: white;
+    font-size: large;
+    
+}
