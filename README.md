@@ -1,6 +1,6 @@
 <h1> Pipeline CI/CD Project cloud Group 6 </h1>
 <p>In this project we have to design a CI/CD pipeline for integration contunious of our apps. <br>
-  <h3> the objectifs of this project </h3>
+  <h2> the objectifs of this project </h2>
   ![Example Image](https://drive.google.com/file/d/1R3b8S0Vukf9J0u8q2i3SMBkYIIYp1ssH/view?usp=sharing)
  
   <ol> 
